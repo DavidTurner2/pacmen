@@ -6,6 +6,9 @@ to position the new pacman image and add it to the "game" div. It is then added 
 You also need to make each pacman bounce off any wall it hits. 
 Start by getting at least one pacman positioned and viewable. 
 
+# Roadmap of future improvements:
+I should add a circle radial fill animation to wipe out the pacman image before removing it. i need to move the buttons when i hit the full screen button. i should also add sounds and even add ghosts that remove pacmen and powerups that remove ghost and make this more like a game.
+
 <img src="PacMan1.png">
 MIT License
 
